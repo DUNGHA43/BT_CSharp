@@ -1,0 +1,15 @@
+C:\Users\DUNGHA\Documents\C#\Lab4_BT\Lab4_BT\bin\Debug\net6.0\Lab4_BT.exe
+C:\Users\DUNGHA\Documents\C#\Lab4_BT\Lab4_BT\bin\Debug\net6.0\Lab4_BT.deps.json
+C:\Users\DUNGHA\Documents\C#\Lab4_BT\Lab4_BT\bin\Debug\net6.0\Lab4_BT.runtimeconfig.json
+C:\Users\DUNGHA\Documents\C#\Lab4_BT\Lab4_BT\bin\Debug\net6.0\Lab4_BT.dll
+C:\Users\DUNGHA\Documents\C#\Lab4_BT\Lab4_BT\bin\Debug\net6.0\Lab4_BT.pdb
+C:\Users\DUNGHA\Documents\C#\Lab4_BT\Lab4_BT\obj\Debug\net6.0\Lab4_BT.csproj.AssemblyReference.cache
+C:\Users\DUNGHA\Documents\C#\Lab4_BT\Lab4_BT\obj\Debug\net6.0\Lab4_BT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DUNGHA\Documents\C#\Lab4_BT\Lab4_BT\obj\Debug\net6.0\Lab4_BT.AssemblyInfoInputs.cache
+C:\Users\DUNGHA\Documents\C#\Lab4_BT\Lab4_BT\obj\Debug\net6.0\Lab4_BT.AssemblyInfo.cs
+C:\Users\DUNGHA\Documents\C#\Lab4_BT\Lab4_BT\obj\Debug\net6.0\Lab4_BT.csproj.CoreCompileInputs.cache
+C:\Users\DUNGHA\Documents\C#\Lab4_BT\Lab4_BT\obj\Debug\net6.0\Lab4_BT.dll
+C:\Users\DUNGHA\Documents\C#\Lab4_BT\Lab4_BT\obj\Debug\net6.0\refint\Lab4_BT.dll
+C:\Users\DUNGHA\Documents\C#\Lab4_BT\Lab4_BT\obj\Debug\net6.0\Lab4_BT.pdb
+C:\Users\DUNGHA\Documents\C#\Lab4_BT\Lab4_BT\obj\Debug\net6.0\Lab4_BT.genruntimeconfig.cache
+C:\Users\DUNGHA\Documents\C#\Lab4_BT\Lab4_BT\obj\Debug\net6.0\ref\Lab4_BT.dll

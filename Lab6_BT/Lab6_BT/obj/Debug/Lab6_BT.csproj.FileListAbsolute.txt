@@ -1,0 +1,14 @@
+C:\Users\DUNGHA\Documents\C#\Lab6_BT\Lab6_BT\bin\Debug\Lab6_BT.exe.config
+C:\Users\DUNGHA\Documents\C#\Lab6_BT\Lab6_BT\bin\Debug\Lab6_BT.exe
+C:\Users\DUNGHA\Documents\C#\Lab6_BT\Lab6_BT\bin\Debug\Lab6_BT.pdb
+C:\Users\DUNGHA\Documents\C#\Lab6_BT\Lab6_BT\obj\Debug\Lab6_BT.csproj.AssemblyReference.cache
+C:\Users\DUNGHA\Documents\C#\Lab6_BT\Lab6_BT\obj\Debug\Lab6_BT.csproj.SuggestedBindingRedirects.cache
+C:\Users\DUNGHA\Documents\C#\Lab6_BT\Lab6_BT\obj\Debug\Lab6_BT.Properties.Resources.resources
+C:\Users\DUNGHA\Documents\C#\Lab6_BT\Lab6_BT\obj\Debug\Lab6_BT.csproj.GenerateResource.cache
+C:\Users\DUNGHA\Documents\C#\Lab6_BT\Lab6_BT\obj\Debug\Lab6_BT.csproj.CoreCompileInputs.cache
+C:\Users\DUNGHA\Documents\C#\Lab6_BT\Lab6_BT\obj\Debug\Lab6_BT.exe
+C:\Users\DUNGHA\Documents\C#\Lab6_BT\Lab6_BT\obj\Debug\Lab6_BT.pdb
+C:\Users\DUNGHA\Documents\C#\Lab6_BT\Lab6_BT\obj\Debug\Lab6_BT.B1_F1.resources
+C:\Users\DUNGHA\Documents\C#\Lab6_BT\Lab6_BT\obj\Debug\Lab6_BT.B1_F2.resources
+C:\Users\DUNGHA\Documents\C#\Lab6_BT\Lab6_BT\obj\Debug\Lab6_BT.B2_F1.resources
+C:\Users\DUNGHA\Documents\C#\Lab6_BT\Lab6_BT\obj\Debug\Lab6_BT.B2_F2.resources

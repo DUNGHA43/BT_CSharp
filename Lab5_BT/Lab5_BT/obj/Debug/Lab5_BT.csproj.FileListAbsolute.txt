@@ -1,0 +1,8 @@
+C:\Users\DUNGHA\Documents\C#\Lab5_BT\Lab5_BT\bin\Debug\Lab5_BT.exe.config
+C:\Users\DUNGHA\Documents\C#\Lab5_BT\Lab5_BT\bin\Debug\Lab5_BT.exe
+C:\Users\DUNGHA\Documents\C#\Lab5_BT\Lab5_BT\bin\Debug\Lab5_BT.pdb
+C:\Users\DUNGHA\Documents\C#\Lab5_BT\Lab5_BT\obj\Debug\Lab5_BT.csproj.AssemblyReference.cache
+C:\Users\DUNGHA\Documents\C#\Lab5_BT\Lab5_BT\obj\Debug\Lab5_BT.csproj.SuggestedBindingRedirects.cache
+C:\Users\DUNGHA\Documents\C#\Lab5_BT\Lab5_BT\obj\Debug\Lab5_BT.csproj.CoreCompileInputs.cache
+C:\Users\DUNGHA\Documents\C#\Lab5_BT\Lab5_BT\obj\Debug\Lab5_BT.exe
+C:\Users\DUNGHA\Documents\C#\Lab5_BT\Lab5_BT\obj\Debug\Lab5_BT.pdb

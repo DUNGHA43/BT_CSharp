@@ -1,0 +1,8 @@
+C:\Users\DUNGHA\Documents\C#\Lab4_BT4\Lab4_BT4\bin\Debug\Lab4_BT4.exe.config
+C:\Users\DUNGHA\Documents\C#\Lab4_BT4\Lab4_BT4\bin\Debug\Lab4_BT4.exe
+C:\Users\DUNGHA\Documents\C#\Lab4_BT4\Lab4_BT4\bin\Debug\Lab4_BT4.pdb
+C:\Users\DUNGHA\Documents\C#\Lab4_BT4\Lab4_BT4\obj\Debug\Lab4_BT4.csproj.AssemblyReference.cache
+C:\Users\DUNGHA\Documents\C#\Lab4_BT4\Lab4_BT4\obj\Debug\Lab4_BT4.csproj.SuggestedBindingRedirects.cache
+C:\Users\DUNGHA\Documents\C#\Lab4_BT4\Lab4_BT4\obj\Debug\Lab4_BT4.csproj.CoreCompileInputs.cache
+C:\Users\DUNGHA\Documents\C#\Lab4_BT4\Lab4_BT4\obj\Debug\Lab4_BT4.exe
+C:\Users\DUNGHA\Documents\C#\Lab4_BT4\Lab4_BT4\obj\Debug\Lab4_BT4.pdb

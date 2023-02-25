@@ -47,7 +47,7 @@ namespace lab4_BT
         public int soDienThoat { get; set; }
         public string in_TT()
         {
-            string s = $"Ma Sinh Vien: {sinhVien.msv.ToString()}\nSo Dien Thoai: {this.soDienThoat}";
+            string s = $"Ma Sinh Vien: {sinhVien.msv.ToString()}\nHo Ten: {sinhVien.hoten}\nCmnd: {sinhVien.cmnd}\nQue Quan: {sinhVien.quequan}\nSo Dien Thoai: {this.soDienThoat}";
             return s;
         }
 
@@ -71,6 +71,9 @@ namespace lab4_BT
                sinhVien  = new SV1()
                {
                    msv = "20213409",
+                   hoten = "Hà Tiến Dũng",
+                   cmnd = "014203002373",
+                   quequan = "SonLa"
                } ,
                soDienThoat = 0383366423
            };
